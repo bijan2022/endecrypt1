@@ -1,0 +1,78 @@
+randy swassthick s
+ls: list of directories
+cd: change directory
+whomami: gives username
+sudo: superuser
+sudo apt install/update(system)/upgrade(files)/remove
+pwd: Displays the current directory path.
+mkdir: Creates a new directory.
+rm: Removes files or directories.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+touch: Creates an empty file or updates the timestamp of an existing file.
+cat: Displays the content of a file.
+nano: Opens the nano text editor to create or edit files.
+chmod: Changes the file permissions.
+chown: Changes the file owner and group.
+ifconfig: Displays or configures network interfaces.
+ping: Checks connectivity to a host or IP address.
+apt-get: Manages packages (install, update, or remove software).
+top: Displays real-time system processes and resource usage.
+ps: Shows currently running processes.
+kill: Terminates a process by its ID.
+find: Searches for files in a directory hierarchy.
+history: Displays a list of commands previously used.
+df: Displays disk space usage of file systems.
+du: Shows disk usage of files and directories.
+grep: Searches for a pattern in files.
+tar: Archives multiple files into one file or extracts files from an archive.
+wget: Downloads files from the internet via HTTP, HTTPS, or FTP.
+curl: Transfers data from or to a server, supporting multiple protocols.
+ssh: Connects to a remote machine securely using SSH protocol.
+service: Starts, stops, or restarts a service.
+systemctl: Controls system services and manages the system state.
+locate: Quickly finds the location of a file or directory.
+uname: Shows system information, such as the kernel version.
+man: Displays the manual page for a command (help documentation).
+zip/unzip: Compresses or extracts zip archives.
+mount: Attaches a file system to a directory.
+umount: Detaches a file system from a directory.
+htop: Interactive process viewer (like top but more user-friendly).
+clear: Clears the terminal screen.
+history: Displays a list of all commands entered in the current session.
+echo: Displays text or variables in the terminal.
+alias: Creates shortcuts for commands.
+
+
+
+
+
+authentication/authorization(granting or denying access to resources)/identity management(create,update,delete identity records) three aspects of iam used to improve security 
+
+
+RWXD
+R=read
+W=write
+X=execute PERMISSIONS
+D=directory 
+
+plmr quni crhz hcga
+
+lgrw ytqp qobv lzus
+
+
+types of tools/third party/operating system/website/extension/
+name/browser/extension
+what are some firefox extensions that allow for informantion gathering in cybersecurity eg wappalyzer
+
+
+
+phishing tools/https://medium.com/@0xRad1ant/top-10-phishing-tools-7c6e5a8be0d7
+
+
+sudo adduser: for creating new users
+ls -l /home: for viewing users
+cat /etc/passwd: for viewing id
+su (user): to change user
+sudo userdel (user): delte users
+
