@@ -8,6 +8,7 @@ Copy code
 
 1. Download the zip file by clicking on the **Code** button, then select **Download ZIP**.
 2. Once downloaded, extract the zip file to your desired location, such as the Desktop.
+3. by running the follwoing codes you can encrypt and decrypt your file just replace the yourfile.txt in the document with your own file and rename it yourfile.txt.
 
 ## Usage
 
