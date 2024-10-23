@@ -12,6 +12,9 @@ Copy code
 4. Just replace the yourfile.txt in the document with your own file and rename it yourfile.txt.
 5. Then use the following codes.
 
+# video guide
+[e9cb65ca-9668-42f9-985f-9ae289dc1692.webm](https://github.com/user-attachments/assets/d06c7aca-5a84-45c5-9c21-4ec5d403f7c1)
+
 ## Usage
 
 Open your terminal and perform the following steps:
@@ -26,5 +29,4 @@ cd endecrypt1-main/endecrypt/endecrypt
 # Run the file encryptor script
 python file_encryptor.py
 
-#a video guide
-[e9cb65ca-9668-42f9-985f-9ae289dc1692.webm](https://github.com/user-attachments/assets/893f1ea3-82a7-4c5e-ab3a-0c125c8959be)
+
