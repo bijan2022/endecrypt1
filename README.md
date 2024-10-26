@@ -11,7 +11,7 @@
 4. Just replace the yourfile.txt in the document with your own file and rename it yourfile.txt.
 5. Then use the following codes.
 
-# video guide
+# Video guide
 [e9cb65ca-9668-42f9-985f-9ae289dc1692.webm](https://github.com/user-attachments/assets/d06c7aca-5a84-45c5-9c21-4ec5d403f7c1)
 
 ## Usage
