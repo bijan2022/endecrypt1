@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # EndEncrypt
 
 **EndEncrypt** is a tool designed for easy encryption and decryption of files. Follow the instructions below to get started.
@@ -8,7 +7,7 @@ Copy code
 
 1. Download the zip file by clicking on the **Code** button, then select **Download ZIP**.
 2. Once downloaded, extract the zip file to your desired location, such as the Desktop.
-3. By running the follwoing codes you can encrypt and decrypt your file
+3. By running the following codes you can encrypt and decrypt your file
 4. Just replace the yourfile.txt in the document with your own file and rename it yourfile.txt.
 5. Then use the following codes.
 
